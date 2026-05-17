@@ -30,13 +30,13 @@ Modern ve gelişmiş bir Python tabanlı sesli asistan sistemi.
 Projeyi klonlayın:
 
 ```bash
-git clone https://github.com/KULLANICI_ADIN/jarvis-ai.git
+git clone https://github.com/KULLANICI_ADIN/jarvis-win.git
 ```
 
 Klasöre girin:
 
 ```bash
-cd jarvis-ai
+cd jarvis-win
 ```
 
 Gerekli kütüphaneleri yükleyin:
